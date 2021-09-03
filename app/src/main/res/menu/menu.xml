@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_breakfast"
+        android:title="@string/breakfast"
+        android:icon="@drawable/ic_outline_free_breakfast_24"/>
+    <item
+        android:id="@+id/ic_vegetarian"
+        android:title="@string/vegetarian"
+        android:icon="@drawable/ic_baseline_grass_24"/>
+    <item
+        android:id="@+id/ic_dessert"
+        android:title="@string/dessert"
+        android:icon="@drawable/ic_outline_cake_24"/>
+
+</menu>
